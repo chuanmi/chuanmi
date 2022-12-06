@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Sysops
+Sysops Admministrator
 
-- 🔭 I’m currently working on ...
+- ⚡ Currently working on a scritp that check availability of iPhone 14 Pro Max on Apple Store to pick'up. Mix of technologies.
 
 <!--
 **chuanmi/chuanmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
