@@ -10,7 +10,7 @@ Im Juan Moreno and i am working as sysops in a international company.
 
 ### LEARNING
 
--  **Python**: Studying with @mouredev Retos de Programación[https://github.com/mouredev/retos-programacion-2023]
+-  **Python**: Studying with @mouredev repo [Retos de Programación 2023](https://github.com/mouredev/retos-programacion-2023)
 -  **Swift**:
 
 <!--
