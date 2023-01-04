@@ -1,6 +1,7 @@
-### Hi!
+## Hi!
 
-Im Juan and i am working as sysops.
+Im Juan Moreno and i am working as sysops in a international company.
+
 
 ### SIDE PROJECTS:
 
