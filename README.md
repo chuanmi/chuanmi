@@ -1,14 +1,25 @@
-## Hi!
+## 💻 Systems Architect by Trade, Swift Developer by Passion
 
-Im Juan Moreno
+Welcome to my corner of GitHub! I'm a seasoned Systems Architect who designs, builds, and maintains robust infrastructure, ensuring scalability and reliability for complex environments.
 
+## 🧠 Professional Focus: Infrastructure & Architecture
 
-### SIDE PROJECTS:
+My day-to-day expertise lies in the infrastructure domain:
 
-- ⚡ Currently working on a script that checks availability of iPhone 14 Pro Max on Apple Store to pick'up. Send message on Telegram chat. Mix of technologies.
+Architecture: Designing high-availability, fault-tolerant systems.
 
+Technologies: Cloud platforms, automation, networking, and ensuring top-tier system performance.
 
-<!--
-**chuanmi/chuanmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Goal: Bridging the gap between business needs and technical implementation through solid architectural planning.
 
--->
+## 🍎 Personal Playground: Apple Ecosystem & Swift
+
+When I step away from infrastructure diagrams, I dive into my true passion: development and experimentation within the Apple world.
+
+Hobby: Swift programming, specifically focused on iOS and macOS applications.
+
+Projects: My repositories are dedicated to personal utility apps, exploring new frameworks (like SwiftUI), and tinkering with various Apple devices.
+
+Motto: Code for fun, learn through building, and contribute to the community.
+
+"Architecting the infrastructure, building the future."
